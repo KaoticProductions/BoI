@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 5d5cc69a18fafcd4fa9827bcd2ccdd39
+timeCreated: 1482401737
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HEAD_plate_armor_helmet_0
+    21300002: HEAD_plate_armor_helmet_1
+    21300004: HEAD_plate_armor_helmet_2
+    21300006: HEAD_plate_armor_helmet_3
+    21300008: HEAD_plate_armor_helmet_4
+    21300010: HEAD_plate_armor_helmet_5
+    21300012: HEAD_plate_armor_helmet_6
+    21300014: HEAD_plate_armor_helmet_7
+    21300016: HEAD_plate_armor_helmet_8
+    21300018: HEAD_plate_armor_helmet_9
+    21300020: HEAD_plate_armor_helmet_10
+    21300022: HEAD_plate_armor_helmet_11
+    21300024: HEAD_plate_armor_helmet_12
+    21300026: HEAD_plate_armor_helmet_13
+    21300028: HEAD_plate_armor_helmet_14
+    21300030: HEAD_plate_armor_helmet_15
+    21300032: HEAD_plate_armor_helmet_16
+    21300034: HEAD_plate_armor_helmet_17
+    21300036: HEAD_plate_armor_helmet_18
+    21300038: HEAD_plate_armor_helmet_19
+    21300040: HEAD_plate_armor_helmet_20
+    21300042: HEAD_plate_armor_helmet_21
+    21300044: HEAD_plate_armor_helmet_22
+    21300046: HEAD_plate_armor_helmet_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HEAD_plate_armor_helmet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -13, y: 13}
+        - {x: -13, y: -5}
+        - {x: -6, y: -8}
+        - {x: 10, y: -8}
+        - {x: 13, y: -4}
+        - {x: 13, y: 14}
+        - {x: 11, y: 20}
+    - name: HEAD_plate_armor_helmet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -6}
+        - {x: -6, y: -9}
+        - {x: 10, y: -9}
+        - {x: 13, y: -5}
+        - {x: 13, y: 13}
+        - {x: 11, y: 19}
+    - name: HEAD_plate_armor_helmet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -14, y: 12}
+        - {x: -14, y: -6}
+        - {x: -7, y: -9}
+        - {x: 9, y: -9}
+        - {x: 12, y: -5}
+        - {x: 12, y: 13}
+        - {x: 10, y: 19}
+    - name: HEAD_plate_armor_helmet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -12, y: 13}
+        - {x: -12, y: -5}
+        - {x: -5, y: -8}
+        - {x: 11, y: -8}
+        - {x: 14, y: -4}
+        - {x: 14, y: 14}
+        - {x: 12, y: 20}
+    - name: HEAD_plate_armor_helmet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -11, y: 13}
+        - {x: -11, y: -5}
+        - {x: -4, y: -8}
+        - {x: 12, y: -8}
+        - {x: 15, y: -4}
+        - {x: 15, y: 14}
+        - {x: 13, y: 20}
+    - name: HEAD_plate_armor_helmet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -11, y: 13}
+        - {x: -11, y: -5}
+        - {x: -4, y: -8}
+        - {x: 12, y: -8}
+        - {x: 15, y: -4}
+        - {x: 15, y: 14}
+        - {x: 13, y: 20}
+    - name: HEAD_plate_armor_helmet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -11, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -6}
+        - {x: 11, y: -6}
+        - {x: 13, y: -1}
+        - {x: 13, y: 18}
+        - {x: 7, y: 20}
+    - name: HEAD_plate_armor_helmet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -13, y: 14}
+        - {x: -15, y: 7}
+        - {x: -15, y: -8}
+        - {x: 9, y: -8}
+        - {x: 11, y: -3}
+        - {x: 11, y: 16}
+        - {x: 5, y: 18}
+    - name: HEAD_plate_armor_helmet_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -13, y: 16}
+        - {x: -15, y: 9}
+        - {x: -15, y: -6}
+        - {x: 9, y: -6}
+        - {x: 11, y: -1}
+        - {x: 11, y: 18}
+        - {x: 5, y: 20}
+    - name: HEAD_plate_armor_helmet_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -16, y: 13}
+        - {x: -16, y: -6}
+        - {x: 8, y: -6}
+        - {x: 10, y: -1}
+        - {x: 10, y: 18}
+        - {x: 7, y: 20}
+    - name: HEAD_plate_armor_helmet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -6}
+        - {x: 7, y: -6}
+        - {x: 9, y: -1}
+        - {x: 9, y: 18}
+        - {x: 6, y: 20}
+    - name: HEAD_plate_armor_helmet_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -6}
+        - {x: 7, y: -6}
+        - {x: 9, y: -1}
+        - {x: 9, y: 18}
+        - {x: 6, y: 20}
+    - name: HEAD_plate_armor_helmet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -13, y: 12}
+        - {x: -13, y: -2}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 13, y: -1}
+        - {x: 13, y: 11}
+        - {x: 10, y: 21}
+    - name: HEAD_plate_armor_helmet_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -13, y: 12}
+        - {x: -13, y: -2}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 13, y: -1}
+        - {x: 13, y: 11}
+        - {x: 10, y: 21}
+    - name: HEAD_plate_armor_helmet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -14, y: 14}
+        - {x: -14, y: -6}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 12, y: -4}
+        - {x: 12, y: 10}
+        - {x: 10, y: 19}
+    - name: HEAD_plate_armor_helmet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -11, y: 11}
+        - {x: -11, y: -3}
+        - {x: -2, y: -8}
+        - {x: 6, y: -8}
+        - {x: 15, y: -2}
+        - {x: 15, y: 10}
+        - {x: 12, y: 20}
+    - name: HEAD_plate_armor_helmet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -10, y: 12}
+        - {x: -10, y: -2}
+        - {x: -1, y: -7}
+        - {x: 7, y: -7}
+        - {x: 16, y: -1}
+        - {x: 16, y: 11}
+        - {x: 13, y: 21}
+    - name: HEAD_plate_armor_helmet_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -10, y: 12}
+        - {x: -10, y: -2}
+        - {x: -1, y: -7}
+        - {x: 7, y: -7}
+        - {x: 16, y: -1}
+        - {x: 16, y: 11}
+        - {x: 13, y: 21}
+    - name: HEAD_plate_armor_helmet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -6, y: 20}
+        - {x: -13, y: 12}
+        - {x: -13, y: -3}
+        - {x: -4, y: -6}
+        - {x: 12, y: -6}
+        - {x: 13, y: -4}
+        - {x: 13, y: 8}
+        - {x: 11, y: 16}
+    - name: HEAD_plate_armor_helmet_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -11, y: 16}
+        - {x: -11, y: -3}
+        - {x: -8, y: -7}
+        - {x: -1, y: -8}
+        - {x: 12, y: -8}
+        - {x: 15, y: -4}
+        - {x: 15, y: 9}
+        - {x: 10, y: 18}
+    - name: HEAD_plate_armor_helmet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -4, y: 20}
+        - {x: -11, y: 12}
+        - {x: -11, y: -3}
+        - {x: -2, y: -6}
+        - {x: 14, y: -6}
+        - {x: 15, y: -4}
+        - {x: 15, y: 8}
+        - {x: 13, y: 16}
+    - name: HEAD_plate_armor_helmet_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -3, y: 20}
+        - {x: -10, y: 12}
+        - {x: -10, y: -3}
+        - {x: -1, y: -6}
+        - {x: 15, y: -6}
+        - {x: 16, y: -4}
+        - {x: 16, y: 8}
+        - {x: 14, y: 16}
+    - name: HEAD_plate_armor_helmet_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -2, y: 20}
+        - {x: -9, y: 12}
+        - {x: -9, y: -3}
+        - {x: 0, y: -6}
+        - {x: 16, y: -6}
+        - {x: 17, y: -4}
+        - {x: 17, y: 8}
+        - {x: 15, y: 16}
+    - name: HEAD_plate_armor_helmet_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -2, y: 20}
+        - {x: -9, y: 12}
+        - {x: -9, y: -3}
+        - {x: 0, y: -6}
+        - {x: 16, y: -6}
+        - {x: 17, y: -4}
+        - {x: 17, y: 8}
+        - {x: 15, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
